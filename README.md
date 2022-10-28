@@ -13,3 +13,5 @@ The objective of this challenge is to create a model to forecast the number of p
 ## Evaluation
 
 The evaluation metric for this challenge is Root Mean Square Error.
+
+*Check the challenge [link](https://zindi.africa/competitions/grocery-store-product-forecasting-challenge)*
