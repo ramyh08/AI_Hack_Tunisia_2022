@@ -1,2 +1,2 @@
-# AI_Hack_Tunisia_2022
+# Grocery Store Product Forecasting Challenge by (AI Hack)[https://zindi.africa/competitions/grocery-store-product-forecasting-challenge/submissions]
 ...
