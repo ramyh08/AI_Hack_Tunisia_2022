@@ -24,6 +24,6 @@ The train set contains transaction information for 3 years and 6 months. You are
 | Resembles Train.csv but without the target-related columns. <br> This is the dataset on which you will apply your model to.  | Content Cell  |
 | Information about holidays  | Content Cell  |
 | Information about the different stores such as their locations ||
-| Information about the time periods with their associated date features e.g. day of the week, day of the year, etc ||
-| Shows the submission format for this competition, with the ‘ID’ column mirroring that of Test.csv. The order of the rows does not matter, but the names of the ‘ID’ must be correct. ||
-| Contains the target. This is the dataset that you will use to train your model. ||
+| Information about the time periods with their associated date <br>features e.g. day of the week, day of the year, etc ||
+| Shows the submission format for this competition, with the ‘ID’ <br> column mirroring that of Test.csv. The order of the rows does not matter, but the names of the ‘ID’ must be correct. ||
+| Contains the target. This is the dataset that you will use to <br>train your model. ||
