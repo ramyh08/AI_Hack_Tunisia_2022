@@ -1,4 +1,4 @@
-# Grocery Store Product Forecasting Challenge by [AI Hack](https://ai-hack-tunisia.com/)
+# Grocery Store Product Forecasting Challenge by [AI Hack](https://ai-hack-tunisia.com/).
 
 Can you forecast the number of products sold per store per week for a local grocery store?
 
@@ -14,4 +14,6 @@ The objective of this challenge is to create a model to forecast the number of p
 
 The evaluation metric for this challenge is Root Mean Square Error.
 
-*Check the challenge [link](https://zindi.africa/competitions/grocery-store-product-forecasting-challenge)*
+_____
+
+*Check the challenge [link](https://zindi.africa/competitions/grocery-store-product-forecasting-challenge).*
