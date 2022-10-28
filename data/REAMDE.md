@@ -18,6 +18,9 @@ The train set contains transaction information for 3 years and 6 months. You are
     ID: the unique identifier for each row in the testing set: year_week_{year_weekofyear}_{store_id}_{Category_id}
 
 ## Files :
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 
 | Description  | FILES |
 | ------------- | ------------- |
@@ -27,3 +30,5 @@ The train set contains transaction information for 3 years and 6 months. You are
 | Information about the time periods with their associated date <br>features e.g. day of the week, day of the year, etc ||
 | Shows the submission format for this competition, with the ‘ID’ <br> column mirroring that of Test.csv. The order of the rows does<br> not matter, but the names of the ‘ID’ must be correct. ||
 | Contains the target. This is the dataset that you will use to <br>train your model. ||
+    
+</div>
