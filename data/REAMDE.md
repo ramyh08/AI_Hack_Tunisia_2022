@@ -21,7 +21,8 @@ The train set contains transaction information for 3 years and 6 months. You are
 
 | Description  | FILES |
 | ------------- | ------------- |
-| Resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your model to.  | Content Cell  |
+| Resembles Train.csv but without the target-related columns.
+This is the dataset on which you will apply your model to.  | Content Cell  |
 | Information about holidays  | Content Cell  |
 | Information about the different stores such as their locations ||
 | Information about the time periods with their associated date features e.g. day of the week, day of the year, etc ||
