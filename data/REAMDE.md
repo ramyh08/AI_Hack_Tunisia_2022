@@ -4,7 +4,6 @@ This is anonymised real data. The data looks at 54 different stores in the same 
 
 The train set contains transaction information for 3 years and 6 months. You are tasked with forecasting the next 8 weeks for the same stores and same products.
 
------
 
 **NB: logp1 (log(x+1)) transformation was applied to the label on the testing set, hence we are asking you to apply the logp1 transformation on your predictions before making any submission.**
 
